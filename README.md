@@ -16,7 +16,7 @@
 <hr/>
 
 > [!NOTE]
-> This profile is partially cloned over at [code.ryawaa.com](https://code.ryawaa.com).
+> This profile is partially cloned over at [code.ryawaa.com](https://code.ryawaa.com) and [code.lgbt](https://code.lgbt).
 
 i do goofy projects, sometimes useful, sometimes not. i also draw, code, idk whatever my adhd mind gets into. 
 
