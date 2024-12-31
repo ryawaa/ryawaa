@@ -41,9 +41,6 @@ I do goofy projects, sometimes useful, sometimes not. I also draw, code, idk wha
 - [Inspiron 3650](https://github.com/ryawaa/inspiron-3650)
 - [ASUS TUF A Series](https://github.com/ryawaa/asus-tuf-a-series)
 
-#### experiments
-- [unsafe-discord-bot](https://github.com/ryawaa/unsafe-discord-bot): A discord bot targetted to run as unsafe as possible
-
 #### web
 - [sparkle](https://github.com/ryawaa/sparkle): The backend of twinkle
 - [twinkle](https://github.com/ryawaa/twinkle): What's supposed to be a stock app viewer
